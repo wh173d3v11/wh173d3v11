@@ -2,7 +2,7 @@
 👨‍💻 Mobile Developer with expertise in Kotlin, SwiftUI, and Jetpack Compose<br>🌍 Experienced in Compose Multiplatform and Kotlin Multiplatform for building efficient cross-platform apps<br>
 📱 Proficient in WebRTC framework development for real-time communication solutions<br>
 💡 Passionate about open-source contributions and creating impactful community-driven projects<br>
-📚 Sharing knowledge through tutorials and courses [Check Out Here](https://youtube.com/@@fierydinesh)<br>
+📚 Sharing knowledge through tutorials and courses [Check Out Here](https://youtube.com/@fierydinesh)<br>
 🌐 Check out my blog for more insights and tutorials [Check Out Here](https://www.mobiledev.blog/)<br>
 🎓 Instructor of the WebRTC Course on Udemy [Check Out Here](https://www.udemy.com/course/building-video-call-app-with-webrtc-jetpackcompose-android-kotlin/)<br>
 💬 Ask Me About: Android, Jetpack Compose, WebRTC, or Kotlin Multiplatform, Compose Multiplatform development! 🚀
